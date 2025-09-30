@@ -1,4 +1,4 @@
-<?php
+<?php get_header();
 
 while (have_posts()) {
     the_post(); ?>
@@ -7,8 +7,7 @@ while (have_posts()) {
     </h2>
     <p> <?php the_content() ?> </p>
     <hr>
-    <?php
+<?php }
 
-}
-
+get_footer();
 ?>

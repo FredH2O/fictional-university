@@ -1,5 +1,7 @@
 <?php
 
+get_header();
+
 while (have_posts()) {
     the_post(); ?>
     <h1>This is a page not a post</h1>
@@ -8,8 +10,10 @@ while (have_posts()) {
     </h2>
     <p> <?php the_content() ?> </p>
     <hr>
-    <?php
+<?php
 
 }
+
+get_footer();
 
 ?>
