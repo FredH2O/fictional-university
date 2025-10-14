@@ -24,3 +24,9 @@
 [13-Oct-2025 20:14:07 UTC] PHP Warning:  Array to string conversion in C:\Users\Huertas Family\Local Sites\fictional-university\app\public\wp-content\themes\fictional-university-theme\index.php on line 22
 [13-Oct-2025 20:14:07 UTC] PHP Warning:  Array to string conversion in C:\Users\Huertas Family\Local Sites\fictional-university\app\public\wp-content\themes\fictional-university-theme\index.php on line 22
 [13-Oct-2025 20:14:07 UTC] PHP Warning:  Array to string conversion in C:\Users\Huertas Family\Local Sites\fictional-university\app\public\wp-content\themes\fictional-university-theme\index.php on line 22
+[14-Oct-2025 17:57:46 UTC] PHP Warning:  Undefined variable $theParent in C:\Users\Huertas Family\Local Sites\fictional-university\app\public\wp-content\themes\fictional-university-theme\single.php on line 20
+[14-Oct-2025 17:57:57 UTC] PHP Warning:  Undefined variable $theParent in C:\Users\Huertas Family\Local Sites\fictional-university\app\public\wp-content\themes\fictional-university-theme\single.php on line 20
+[14-Oct-2025 17:58:33 UTC] PHP Warning:  Undefined variable $theParent in C:\Users\Huertas Family\Local Sites\fictional-university\app\public\wp-content\themes\fictional-university-theme\single.php on line 20
+[14-Oct-2025 17:58:35 UTC] PHP Warning:  Undefined variable $theParent in C:\Users\Huertas Family\Local Sites\fictional-university\app\public\wp-content\themes\fictional-university-theme\single.php on line 20
+[14-Oct-2025 17:58:35 UTC] PHP Warning:  Undefined variable $theParent in C:\Users\Huertas Family\Local Sites\fictional-university\app\public\wp-content\themes\fictional-university-theme\single.php on line 20
+[14-Oct-2025 18:32:56 UTC] PHP Parse error:  syntax error, unexpected identifier "the_author", expecting "," or ";" in C:\Users\Huertas Family\Local Sites\fictional-university\app\public\wp-content\themes\fictional-university-theme\archive.php on line 12
